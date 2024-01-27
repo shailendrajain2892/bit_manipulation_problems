@@ -17,5 +17,5 @@ def maxAndValue(arr):
             result |= mask
     return result
 
-arr = [4, 8, 12, 16]
+arr = [4, 8, 16, 2]
 print(maxAndValue(arr))
